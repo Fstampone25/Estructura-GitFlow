@@ -12,9 +12,7 @@ if operacion == "+":
 
 elif operacion == "-":
     resultado = numero1 - numero2
-<<<<<<< HEAD
-    print("el resultado es: ", resultado)
-
-=======
     print("resultado: ", resultado)
->>>>>>> release/v1.0
+
+else:
+    print("operacion no valida")
