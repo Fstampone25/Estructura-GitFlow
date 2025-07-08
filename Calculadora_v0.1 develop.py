@@ -13,3 +13,6 @@ if operacion == "+":
 elif operacion == "-":
     resultado = numero1 - numero2
     print("resultado: ", resultado)
+
+else:
+    print("operacion no valida")
