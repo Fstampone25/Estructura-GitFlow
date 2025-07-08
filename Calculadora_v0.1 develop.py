@@ -7,4 +7,4 @@ operacion = input("elegi la operacion + o -: ")
 
 if operacion == "+":
     resultado = numero1 + numero2
-    print("el resultado es: ", resultado)
+    print("resultado: ", resultado)
