@@ -15,4 +15,4 @@ elif operacion == "-":
     print("resultado: ", resultado)
 
 else:
-    print("operacion no valida")
+    print("operacion no valid")
